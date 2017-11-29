@@ -1,0 +1,15 @@
+Django
+django-bootstrap-toolkit
+django-bootstrap3
+djangorestframework
+django-rest-swagger
+django-redis-sessions-fork
+django-formtools
+django-recaptcha
+django-redis-cache
+ldap3
+influxdb
+raven
+redis
+sentry_plugins
+sentry
